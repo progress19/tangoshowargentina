@@ -1,0 +1,16 @@
+@extends('web.layout.default')
+@section('title', __('HOME'))
+@section('content')
+@include('web.layout.partials.nav')
+@include('web.layout.partials.header')
+@include('web.layout.partials.show.shows')
+@include('web.layout.partials.house.houses')
+@include('web.layout.partials.alerts.error')
+@include('web.layout.partials.alerts.success')
+@include('web.layout.partials.suscribe')
+@include('web.layout.partials.bannerfoot')
+@include('web.layout.partials.footer')
+@include('web.layout.partials.copy')
+@endsection
+@section('scripts')
+@endsection

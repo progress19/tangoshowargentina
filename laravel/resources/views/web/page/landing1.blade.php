@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>TANGO SHOW ARGENTINA – Tango Show – Buenos Aires – La Ventana Tango – Gala Tango – Michel Angelo Tango –
+    <title>FAMILIA TANGO SHOW ARGENTINA – Tango Show – Buenos Aires – La Ventana Tango – Gala Tango – Michel Angelo Tango –
         Aljibe Tango – Dinner Tango Show – Tango Lesson – Wine Tasting – Clase de Tango – Degustacion de Vinos + Tango
         Show reservas – Tango Show Booking online.</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">

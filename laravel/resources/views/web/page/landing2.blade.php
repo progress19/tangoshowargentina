@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>GRUPO TANGO SHOW ARGENTINA - Tango - Tango Show - Dinner Tango Show - Buenos Aires Tango Show - Jantar Tango
+    <title>FAMILIA TANGO SHOW ARGENTINA - Tango - Tango Show - Dinner Tango Show - Buenos Aires Tango Show - Jantar Tango
         Show - La Ventana Tango - Michelangelo Tango - Gala Tango - Aljibe Tango</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" type="image/png" href="{{ asset('web/img/favicon.jpg') }}">
